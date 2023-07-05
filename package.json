@@ -1,7 +1,7 @@
 {
-    "name": "MiraiBypassPMD",
+    "name": "BOT-PMD",
     "version": "2.5.0",
-    "description": "File bot được sound lại bởi MDong, Chúc các bạn sử dụng vui vẻ 🚀.",
+    "description": "File bot được source lại bởi MDong, Chúc các bạn sử dụng vui vẻ 🚀.",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
