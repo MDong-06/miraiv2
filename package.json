@@ -1,7 +1,7 @@
 {
-    "name": "MiraiBypassPMD",
+    "name": "Quốc Dũng",
     "version": "2.5.0",
-    "description": "File bot được source lại bởi MDong, Chúc các bạn sử dụng vui vẻ.",
+    "description": "File bot của Quốc Dũng",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
